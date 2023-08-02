@@ -1,0 +1,24 @@
+{
+  "name": "homework_27",
+  "version": "1.0.0",
+  "description": "Homework 27 in Hillel IT School from Derevyanko Stepan",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass": "sass --watch scss:css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Stepan0202/derevyanko_hw27.git"
+  },
+  "author": "Derevyanko Stepan, Hillel IT school",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Stepan0202/derevyanko_hw27/issues"
+  },
+  "homepage": "https://github.com/Stepan0202/derevyanko_hw27#readme",
+  "dependencies": {
+    "bootstrap": "^5.3.1",
+    "sass": "^1.64.1"
+  }
+}
